@@ -1,0 +1,8 @@
+C:\codigos\PaymentSystem\PaymentSystem.ApiTests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_PaymentSystem.ApiTests
+C:\codigos\PaymentSystem\PaymentSystem.ApiTests\bin\Debug\net9.0\CoverletSourceRootsMapping_PaymentSystem.ApiTests
+C:\codigos\PaymentSystem\PaymentSystem.ApiTests\obj\Debug\net9.0\PaymentSystem.ApiTests.csproj.AssemblyReference.cache
+C:\codigos\PaymentSystem\PaymentSystem.ApiTests\obj\Debug\net9.0\MvcTestingAppManifest.json
+C:\codigos\PaymentSystem\PaymentSystem.ApiTests\obj\Debug\net9.0\PaymentSystem.ApiTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\PaymentSystem\PaymentSystem.ApiTests\obj\Debug\net9.0\PaymentSystem.ApiTests.AssemblyInfoInputs.cache
+C:\codigos\PaymentSystem\PaymentSystem.ApiTests\obj\Debug\net9.0\PaymentSystem.ApiTests.AssemblyInfo.cs
+C:\codigos\PaymentSystem\PaymentSystem.ApiTests\obj\Debug\net9.0\PaymentSystem.ApiTests.csproj.CoreCompileInputs.cache

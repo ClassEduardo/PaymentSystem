@@ -1,0 +1,7 @@
+C:\codigos\PaymentSystem\PaymentSystem.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_PaymentSystem.Tests
+C:\codigos\PaymentSystem\PaymentSystem.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_PaymentSystem.Tests
+C:\codigos\PaymentSystem\PaymentSystem.Tests\obj\Debug\net9.0\PaymentSystem.Tests.csproj.AssemblyReference.cache
+C:\codigos\PaymentSystem\PaymentSystem.Tests\obj\Debug\net9.0\PaymentSystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\PaymentSystem\PaymentSystem.Tests\obj\Debug\net9.0\PaymentSystem.Tests.AssemblyInfoInputs.cache
+C:\codigos\PaymentSystem\PaymentSystem.Tests\obj\Debug\net9.0\PaymentSystem.Tests.AssemblyInfo.cs
+C:\codigos\PaymentSystem\PaymentSystem.Tests\obj\Debug\net9.0\PaymentSystem.Tests.csproj.CoreCompileInputs.cache

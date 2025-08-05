@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rmGymphpUUx8Wq8CNCURBFkG4VJD+938XLFAxlkmNlc=",
+  "Source": "PaymentSystem.WebAPI",
+  "BasePath": "_content/PaymentSystem.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

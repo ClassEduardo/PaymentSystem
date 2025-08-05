@@ -1,0 +1,6 @@
+{
+  "PaymentSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\codigos\\PaymentSystem\\PaymentSystem.Application",
+  "PaymentSystem.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\codigos\\PaymentSystem\\PaymentSystem.Domain",
+  "PaymentSystem.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\codigos\\PaymentSystem\\PaymentSystem.Infrastructure",
+  "PaymentSystem.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\codigos\\PaymentSystem\\PaymentSystem.WebAPI"
+}

@@ -1,0 +1,15 @@
+C:\codigos\PaymentSystem\PaymentSystem.Application\bin\Debug\net9.0\PaymentSystem.Application.deps.json
+C:\codigos\PaymentSystem\PaymentSystem.Application\bin\Debug\net9.0\PaymentSystem.Application.dll
+C:\codigos\PaymentSystem\PaymentSystem.Application\bin\Debug\net9.0\PaymentSystem.Application.pdb
+C:\codigos\PaymentSystem\PaymentSystem.Application\bin\Debug\net9.0\PaymentSystem.Domain.dll
+C:\codigos\PaymentSystem\PaymentSystem.Application\bin\Debug\net9.0\PaymentSystem.Domain.pdb
+C:\codigos\PaymentSystem\PaymentSystem.Application\obj\Debug\net9.0\PaymentSystem.Application.csproj.AssemblyReference.cache
+C:\codigos\PaymentSystem\PaymentSystem.Application\obj\Debug\net9.0\PaymentSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\PaymentSystem\PaymentSystem.Application\obj\Debug\net9.0\PaymentSystem.Application.AssemblyInfoInputs.cache
+C:\codigos\PaymentSystem\PaymentSystem.Application\obj\Debug\net9.0\PaymentSystem.Application.AssemblyInfo.cs
+C:\codigos\PaymentSystem\PaymentSystem.Application\obj\Debug\net9.0\PaymentSystem.Application.csproj.CoreCompileInputs.cache
+C:\codigos\PaymentSystem\PaymentSystem.Application\obj\Debug\net9.0\PaymentS.0E160526.Up2Date
+C:\codigos\PaymentSystem\PaymentSystem.Application\obj\Debug\net9.0\PaymentSystem.Application.dll
+C:\codigos\PaymentSystem\PaymentSystem.Application\obj\Debug\net9.0\refint\PaymentSystem.Application.dll
+C:\codigos\PaymentSystem\PaymentSystem.Application\obj\Debug\net9.0\PaymentSystem.Application.pdb
+C:\codigos\PaymentSystem\PaymentSystem.Application\obj\Debug\net9.0\ref\PaymentSystem.Application.dll

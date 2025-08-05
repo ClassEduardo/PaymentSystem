@@ -1,0 +1,15 @@
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\bin\Debug\net9.0\PaymentSystem.Infrastructure.deps.json
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\bin\Debug\net9.0\PaymentSystem.Infrastructure.dll
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\bin\Debug\net9.0\PaymentSystem.Infrastructure.pdb
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\bin\Debug\net9.0\PaymentSystem.Domain.dll
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\bin\Debug\net9.0\PaymentSystem.Domain.pdb
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\obj\Debug\net9.0\PaymentSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\obj\Debug\net9.0\PaymentSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\obj\Debug\net9.0\PaymentSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\obj\Debug\net9.0\PaymentSystem.Infrastructure.AssemblyInfo.cs
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\obj\Debug\net9.0\PaymentSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\obj\Debug\net9.0\PaymentS.128BB7B1.Up2Date
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\obj\Debug\net9.0\PaymentSystem.Infrastructure.dll
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\obj\Debug\net9.0\refint\PaymentSystem.Infrastructure.dll
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\obj\Debug\net9.0\PaymentSystem.Infrastructure.pdb
+C:\codigos\PaymentSystem\PaymentSystem.Infrastructure\obj\Debug\net9.0\ref\PaymentSystem.Infrastructure.dll
